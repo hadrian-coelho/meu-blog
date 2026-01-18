@@ -3,7 +3,7 @@
 
   <channel>
     <title>Blog | Hadrian 🐇</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent blog posts on Blog | Hadrian 🐇</description>
     
     <generator>Hugo (https://gohugo.io)</generator>
@@ -16,7 +16,7 @@
     
     <lastBuildDate>Fri, 16 Jan 2026 03:11:18 -0300</lastBuildDate>
     
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

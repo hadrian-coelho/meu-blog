@@ -3,7 +3,7 @@
 
   <channel>
     <title>Blog | Hadrian 🐇</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent blog posts on Blog | Hadrian 🐇</description>
     
     <generator>Hugo (https://gohugo.io)</generator>
@@ -16,12 +16,12 @@
     
     <lastBuildDate>Fri, 16 Jan 2026 04:10:25 -0300</lastBuildDate>
     
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
 
     <item>
       <title>Sobre</title>
-      <link>//localhost:1313/sobre/</link>
+      <link>/sobre/</link>
       <pubDate>Fri, 16 Jan 2026 04:10:25 -0300</pubDate>
       
       <author></author>
@@ -34,13 +34,13 @@
       <description>
       Olá
       </description>
-      <guid isPermaLink="true">//localhost:1313/sobre/</guid>
+      <guid isPermaLink="true">/sobre/</guid>
     </item>
     
 
     <item>
       <title>Olá!</title>
-      <link>//localhost:1313/posts/2026/</link>
+      <link>/posts/2026/</link>
       <pubDate>Fri, 16 Jan 2026 03:11:18 -0300</pubDate>
       
       <author></author>
@@ -54,7 +54,7 @@
       Seja bem-vindo(a)! Este é apenas um teste. Embora eu ache um pouco antiquado, criar um blog se tornou uma das minhas promessas para 2026. Fui motivado por um post feito pelo Dunossauro, o mesmo que inspirou este que você está lendo.
 De antemão, já aviso que este blog não tem compromisso com nenhum tema específico ou com acertos gramaticais. A ideia aqui é ter um espaço onde eu possa praticar minha escrita, compartilhar minhas ideias, pensamentos e reflexões.
       </description>
-      <guid isPermaLink="true">//localhost:1313/posts/2026/</guid>
+      <guid isPermaLink="true">/posts/2026/</guid>
     </item>
     
   </channel>
